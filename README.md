@@ -1,4 +1,21 @@
+## Description
+This project is a simple FastAPI application that interacts with the GitHub API. It allows users to fetch repository details, list all issues of a repository, and create new issues using API endpoints.
 
+##
+1. Shows repository details fetched from GitHub using owner and repo name.
+<img width="901" height="882" alt="Screenshot 2026-04-04 at 2 53 43 PM" src="https://github.com/user-attachments/assets/094bf1e5-0f8f-4440-8cb8-2b007203f7e9" />
+
+##
+2. Displays all issues of a selected GitHub repository.
+<img width="676" height="871" alt="Screenshot 2026-04-04 at 4 54 55 PM" src="https://github.com/user-attachments/assets/4a4a0a33-d43c-47c2-ad7a-80fb8f0aa243" />
+
+##
+3.Creates a new issue in the repository using title and body.
+<img width="665" height="774" alt="creayed issue" src="https://github.com/user-attachments/assets/eaf1bab6-973a-418d-a22f-cff41390c6ba" />
+
+
+## Demo Video
+https://drive.google.com/file/d/1Hb2YNcyojpmM_0HMOtyWs3zsf64UtHHa/view?usp=sharing
 ## Setup
 
 1. Clone the repository (if not already):
